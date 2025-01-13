@@ -5,7 +5,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Data Visualization](#data-visualization)
 - [Python](#python)
-- [Tableau](#tableau)
 
 # Data Visualization
 
@@ -19,6 +18,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Data Wrangling & EDA | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | pandas, numpy| 
-
+| 🛒 [Customer Segmentation](file:///C:/Users/jvij0/Downloads/6400Project2%20(1).pdf) | Data Wrangling, EDA, RFM Analysis | insert brief description here | pandas, numpy, add others| 
+| 👩🏻‍💻 [Work From Home vs. Back-to-Office Policies](file:///C:/Users/jvij0/Downloads/6600%20Project%201%20(1).pdf) | Data Wrangling, EDA, Time-Series Analysis | insert brief description here | pandas, numpy, add others| 
 ***
